@@ -1,2 +1,2 @@
-# front-page-finance
-Front page built with React and Tailwind
+# Finance Inspired Landing Page
+Bbuilt with React and Tailwind
